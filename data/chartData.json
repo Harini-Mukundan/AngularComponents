@@ -1,0 +1,20 @@
+{
+	"chartData": {
+	  
+	  "chart": {
+      "type": ""
+    },
+    
+		"title": {
+			"text": ""
+		},
+
+		"xAxis": {
+			"categories": [],
+			"title":{
+			  "text" : ""}
+		},
+
+		"series": []
+	}
+}
